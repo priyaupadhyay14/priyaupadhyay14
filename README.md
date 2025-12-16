@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m Priya Upadhyay — a Business Analytics graduate student with a 4.0 GPA, focused on using data to drive clear, actionable business decisions.
+Hi, I’m Priya Upadhyay - a Business Analytics graduate student with a 4.0 GPA, focused on using data to drive clear, actionable business decisions.
 
 I specialize in end-to-end analytics work, from data extraction and cleaning to analysis, modeling, and insight delivery. My experience spans projects in marketing analytics, predictive modeling, database design, and business intelligence, where the goal is always the same: turning data into decisions that improve performance and strategy.
 
